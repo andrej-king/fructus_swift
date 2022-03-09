@@ -1,0 +1,3 @@
+# Fructus
+
+## Example `swift` project
