@@ -16,14 +16,26 @@ struct FruitDetailView: View {
                     VStack(alignment: .leading, spacing: 20) {
                         // TITLE
                         Text(fruit.title)
+                            .font(.largeTitle)
+                            .fontWeight(.heavy)
+                            .foregroundColor(fruit.gradientColors[1])
                         
                         // HEADLINE
+                        Text(fruit.headline)
+                            .font(.headline)
+                            .multilineTextAlignment(.leading)
                         
                         // NUTRIENTS
                         
+                        
                         // SUBHEADLINE
+                        Text("Learn more abount \(fruit.title)".uppercased())
+                            .fontWeight(.bold)
+                            .foregroundColor(fruit.gradientColors[1])
                         
                         // DESCRIPTION
+                        Text(fruit.description)
+                            .multilineTextAlignment(.leading)
                         
                         // LINK
                         
