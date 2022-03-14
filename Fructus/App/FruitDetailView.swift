@@ -8,7 +8,31 @@ struct FruitDetailView: View {
     // MARK: - BODY
     
     var body: some View {
-        Text(fruit.title)
+        NavigationView {
+            ScrollView(.vertical, showsIndicators: false) {
+                VStack(alignment: .center, spacing: 20) {
+                    // HEADER
+                    
+                    VStack(alignment: .leading, spacing: 20) {
+                        // TITLE
+                        Text(fruit.title)
+                        
+                        // HEADLINE
+                        
+                        // NUTRIENTS
+                        
+                        // SUBHEADLINE
+                        
+                        // DESCRIPTION
+                        
+                        // LINK
+                        
+                    } //: VSTACK
+                    .padding(.horizontal, 20)
+                    .frame(maxWidth: 640, alignment: .center)
+                } //: VSTACK
+            } //: SCROLL
+        } //: NAVIGATION
     }
 }
 

@@ -18,7 +18,7 @@ struct ContentView: View {
                 }
             }
             .navigationTitle("Fruits")
-        } //: Navigation
+        } //: NAVIGATION
     }
 }
 
