@@ -22,6 +22,7 @@
 		55DF3CB927D921C8005B5008 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55DF3CB827D921C8005B5008 /* Preview Assets.xcassets */; };
 		55F02B5027E114E50039D9E2 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55F02B4F27E114E50039D9E2 /* FruitNutrientsView.swift */; };
 		55F02B5227E128010039D9E2 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55F02B5127E128010039D9E2 /* SettingsView.swift */; };
+		55F02B5427E12DB90039D9E2 /* SettingsLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55F02B5327E12DB90039D9E2 /* SettingsLabelView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		55DF3CB827D921C8005B5008 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		55F02B4F27E114E50039D9E2 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
 		55F02B5127E128010039D9E2 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		55F02B5327E12DB90039D9E2 /* SettingsLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLabelView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				555D7D4027DFCBC600360508 /* FruitHeaderView.swift */,
 				555D7D4227DFCF4B00360508 /* SourceLinkView.swift */,
 				55F02B4F27E114E50039D9E2 /* FruitNutrientsView.swift */,
+				55F02B5327E12DB90039D9E2 /* SettingsLabelView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 				55DF3CB427D921C7005B5008 /* ContentView.swift in Sources */,
 				555D7D4127DFCBC600360508 /* FruitHeaderView.swift in Sources */,
 				555D7D3527DFA92C00360508 /* OnboardingView.swift in Sources */,
+				55F02B5427E12DB90039D9E2 /* SettingsLabelView.swift in Sources */,
 				555D7D3827DFAF8F00360508 /* FruitModel.swift in Sources */,
 				55DF3CB227D921C7005B5008 /* FructusApp.swift in Sources */,
 				55F02B5227E128010039D9E2 /* SettingsView.swift in Sources */,
