@@ -21,6 +21,7 @@
 		55DF3CB627D921C8005B5008 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55DF3CB527D921C8005B5008 /* Assets.xcassets */; };
 		55DF3CB927D921C8005B5008 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55DF3CB827D921C8005B5008 /* Preview Assets.xcassets */; };
 		55F02B5027E114E50039D9E2 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55F02B4F27E114E50039D9E2 /* FruitNutrientsView.swift */; };
+		55F02B5227E128010039D9E2 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55F02B5127E128010039D9E2 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		55DF3CB527D921C8005B5008 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55DF3CB827D921C8005B5008 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		55F02B4F27E114E50039D9E2 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
+		55F02B5127E128010039D9E2 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				55DF3CB327D921C7005B5008 /* ContentView.swift */,
 				555D7D3427DFA92C00360508 /* OnboardingView.swift */,
 				555D7D3E27DFC5B000360508 /* FruitDetailView.swift */,
+				55F02B5127E128010039D9E2 /* SettingsView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				555D7D3527DFA92C00360508 /* OnboardingView.swift in Sources */,
 				555D7D3827DFAF8F00360508 /* FruitModel.swift in Sources */,
 				55DF3CB227D921C7005B5008 /* FructusApp.swift in Sources */,
+				55F02B5227E128010039D9E2 /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
