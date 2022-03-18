@@ -1,21 +1,21 @@
 # Fructus - example `swift` project
 
 ## iPhone
-![](readme-images/iPhone-13-home.png)
+<img src="readme-images/iPhone-13-home.png" width="300">
 ---
-![](readme-images/iPhone-13-list-view.png)
+<img src="readme-images/iPhone-13-list-view.png" width="300">
 ---
-![](readme-images/iPhone-13-detail-1(with-header-image).png)
+<img src="readme-images/iPhone-13-detail-1(with-header-image).png" width="300">
 ---
-![](readme-images/iPhone-13-detail-2(with-disclosure-group).png)
+<img src="readme-images/iPhone-13-detail-2(with-disclosure-group).png" width="300">
 ---
-![](readme-images/iPhone-13-detail-3(with-link).png)
+<img src="readme-images/iPhone-13-detail-3(with-link).png" width="300">
 ---
-![](readme-images/iPhone-13-settings-view.png)
+<img src="readme-images/iPhone-13-settings-view.png" width="300">
 
 ## iPad
-![](readme-images/iPad-Pro-11-home.png)
+<img src="readme-images/iPad-Pro-11-home.png" width="500">
 ---
-![](readme-images/iPad-Pro-11-list-view.png)
+<img src="readme-images/iPad-Pro-11-list-view.png" width="600">
 ---
-![](readme-images/iPad-Pro-11-settings-view.png)
+<img src="readme-images/iPad-Pro-11-settings-view.png" width="600">
