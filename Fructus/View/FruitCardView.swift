@@ -38,8 +38,10 @@ struct FruitCardView: View {
             } //: VSTACK
         } //: ZSTACK
         .onAppear {
-            withAnimation(.easeOut(duration: 0.5)) {
-                isAnimating = true
+            DispatchQueue.main.async {
+                withAnimation(.easeOut(duration: 0.5)) {
+                    isAnimating = true
+                }
             }
         }
         .onDisappear {
